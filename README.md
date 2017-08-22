@@ -1,2 +1,2 @@
-# reactor
+# Reactor
 Reactor Contract DSL
