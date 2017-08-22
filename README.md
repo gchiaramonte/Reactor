@@ -1,5 +1,3 @@
-# Reactor
-
 ## About 
 
 ## Usage
