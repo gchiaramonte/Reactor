@@ -17,6 +17,13 @@ Scale
 And 
 Or
 Cond 
+When 
+Anytime
+Until
+Limit
+Attachment
+AggregateLimit
+Reinstatement
 ```
 
 # Support
