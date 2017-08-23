@@ -21,10 +21,19 @@ When
 Anytime
 Until
 Limit
-Attachment
-AggregateLimit
+Attach
+AggLimit
+AggAttach
 Reinstatement
 ```
+
+# Observables
+
+Observables are functions that represent time varying values. Then can represent real world values such as the high temperature on a give day or they can be used to model unknow valus such as hurricane or earthquake losses. 
+
+# Lifting Functions
+
+Ordinary functions can be lifted to work with observable values. For example, if you wanted to take the maximum rainfall across a set of locations you would lift the function Max to work with the rainfall observabations. Another example would be taking the sum of losses to properties from a natural catastrophe, in which case you would lift the function Sum to total the ovservable losses in a portfolio of homeowners policies.
 
 # Support
 
