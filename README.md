@@ -1,8 +1,8 @@
 # What is Reactor?
 
-Reactor is a contract domain specific language (DSL) for modeling both insurance and reinsurance contracts. Inspired by the paper, "How to write a financial contract," by Simon Peyton-Jones and Jean Marc Eber. I have adapted and extended their work to the domain of re/insurance contracts. 
+Reactor is a domain specific language (DSL) for modeling both insurance and reinsurance contracts. Inspired by the paper, "How to write a financial contract," by Simon Peyton-Jones and Jean Marc Eber. I have extended their work to the domain of re/insurance contracts. 
 
-Contracts in the re/insurance domain have unique contract terms that require an additional set of primitive values and an industry specific way to evaluate these contracts. 
+Contracts in the re/insurance domain have unique contract terms that require an additional set of primitive values. Also, given the ability of re/insurance contract terms to change state in respones to an event, the model of evaluation needs to capture the changing contract terms through time.  
 
 # Usage
 
