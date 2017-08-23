@@ -6,7 +6,7 @@
 
 ## Contact
 
-Linked-In: [Gene Chiaramonte][https://www.linkedin.com/in/gene-chiaramonte-8a153a55/] 
+Linked-In: [Gene Chiaramonte](https://www.linkedin.com/in/gene-chiaramonte-8a153a55/) 
 
 ## License
 
