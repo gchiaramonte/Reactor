@@ -6,6 +6,10 @@ Contracts in the re/insurance domain have unique terms such as limits, attachmen
 
 # Features
 
+# Examples
+
+## Contract Primitives
+
 ```
 Zero
 One
@@ -14,8 +18,6 @@ And
 Or
 Cond 
 ```
-
-# Examples
 
 # Support
 
