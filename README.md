@@ -6,7 +6,10 @@
 
 ## Contact
 
+Linked-In: [Gene Chiaramonte][https://www.linkedin.com/in/gene-chiaramonte-8a153a55/] 
+
 ## License
+
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
                        
