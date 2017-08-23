@@ -1,2 +1,2 @@
-A (re)insurance contract domain specific language. 
+A domain specific language for modeling re/insurance contracts.
 
