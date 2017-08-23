@@ -18,7 +18,7 @@ Or
 
 # Contact
 
-Twitter: @waahhoo  
+Twitter: [@waahhoo](https://twitter.com/waahhoo)  
 Linked-In: [Gene Chiaramonte](https://www.linkedin.com/in/gene-chiaramonte-8a153a55/)
 
 # License
