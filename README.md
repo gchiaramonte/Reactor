@@ -10,7 +10,7 @@ Contracts in the re/insurance domain have unique terms such as limits, attachmen
 
 ## Contract Primitives
 
-```
+```fsharp
 Zero
 One
 Scale
@@ -25,6 +25,15 @@ Attach
 AggLimit
 AggAttach
 Reinstatement
+```
+
+```fsharp
+Const
+Date
+Lift
+Lift2
+Lift3
+Lookup
 ```
 
 # Observables
