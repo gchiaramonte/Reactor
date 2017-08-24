@@ -27,6 +27,10 @@ AggAttach
 Reinstatement
 ```
 
+# Observables
+
+Observables are functions that represent time varying values. Then can represent real world values such as the high temperature on a give day or they can be used to model unknow valus such as hurricane or earthquake losses. 
+
 ```fsharp
 Const
 Date
@@ -35,10 +39,6 @@ Lift2
 Lift3
 Lookup
 ```
-
-# Observables
-
-Observables are functions that represent time varying values. Then can represent real world values such as the high temperature on a give day or they can be used to model unknow valus such as hurricane or earthquake losses. 
 
 # Lifting Functions
 
